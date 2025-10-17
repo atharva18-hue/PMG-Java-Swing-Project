@@ -21,7 +21,7 @@ Developed entirely with core Java, it highlights the power of object-oriented de
 -  **Combo Multiplier:** Consecutive ghost captures increase your score (200 → 400 → 600 → 800).  
 -  **High Score Tracking:** Automatically stores your best score.  
 -  **Animated Graphics:** Smooth Pac-Man animations and pulsing power-ups.  
-- ⏸ **Pause Functionality:** Press **SPACE** to pause/resume.  
+-  **Pause Functionality:** Press **SPACE** to pause/resume.  
 -  **Screen Wrapping:** Move across screen edges strategically.  
 -  **Lives System:** Three lives displayed on the game screen.  
 
@@ -55,9 +55,9 @@ Displays your final score and high score with a retry option.
 
 | Action | Key |
 |:--|:--|
-| Move Up | ⬆ Arrow Up |
-| Move Down | ⬇ Arrow Down |
-| Move Left | ⬅ Arrow Left |
+| Move Up |  Arrow Up |
+| Move Down |  Arrow Down |
+| Move Left |  Arrow Left |
 | Move Right |  Arrow Right |
 | Pause / Resume | SPACE |
 | Exit Game | ESC |
@@ -129,7 +129,7 @@ java PacMan
 ## 5️ Play and Enjoy 
 
 - Use Arrow Keys to move Pac-Man 
-- Press SPACE to pause or resume ⏸
+- Press SPACE to pause or resume 
 - Collect all dots, avoid ghosts , and aim for a high score!
 
 
