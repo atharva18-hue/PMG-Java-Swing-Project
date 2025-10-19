@@ -1,4 +1,4 @@
-#   Pac-Man Game Java Swin
+#   Pac-Man Game Java Swing 
 
 Relive the nostalgia of the classic Pac-Man, now reborn in Java Swing with a modern touch! 
 Guide Pac-Man through winding mazes, munch on pellets, and dodge clever ghosts  as the challenge intensifies with every level.
